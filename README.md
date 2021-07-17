@@ -1,3 +1,4 @@
+## This method is NOT WORKING ANY MORE
 # Chegg-Bot-whatever-you-name-it
 it's SCRAPING TOOL
 **Please consider looking into the api method - learn about how to look into newtwork and how the website communicate**
